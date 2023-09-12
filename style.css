@@ -1,0 +1,39 @@
+/* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+
+header{
+    /* background-color: lightblue; */
+    background-color: rgb(0, 0, 0); 
+    color: #ffffff;
+    height: 150px;
+}
+header nav ul{
+    /* text-align: end; */
+    /* text-align: center; */
+    text-align: start;
+}
+header nav ul li{
+    display: inline-block;
+    padding-right: 50px;
+}
+
+main{
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTcGrj7-9QsBoOhSR2UdsHN-WMkUA4mesZYw&usqp=CAU");
+}
+
+
+section{
+    border: 2px solid #10d351;
+    background-color: #fff;
+    padding: 20px;
+    margin: 50px;
+    font-size: 30px;
+}
+
+ul{
+    list-style: none;
+}
